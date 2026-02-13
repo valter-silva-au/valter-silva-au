@@ -2,7 +2,7 @@
 
 **Senior DevOps Delivery Consultant @ AWS Professional Services**
 
-I help enterprises transform their cloud infrastructure at scale. With 6.5 years at AWS Professional Services, I've delivered $27M+ in cloud transformation projects across 40+ engagements for some of Australia's largest organisations.
+With 13+ years in tech and the last 6.5 at AWS Professional Services, I help enterprises transform their cloud infrastructure at scale. I've delivered $27M+ in cloud transformation projects across 40+ engagements spanning financial services, mining & energy, healthcare, telecommunications, and gaming.
 
 ---
 
@@ -17,10 +17,14 @@ I help enterprises transform their cloud infrastructure at scale. With 6.5 years
 
 | | |
 |---|---|
-| **40+** enterprise engagements | **9** major enterprises (ANZ, CBA, BHP, Woodside, Medibank...) |
+| **13+** years in tech | **40+** enterprise engagements |
 | **$27M+** in delivered projects | **10/10** customer satisfaction scores |
-| **690+** GitHub stars | **5.5PB** largest data migration (CBA OMNIA) |
+| **690+** GitHub stars | **5.5PB** largest data migration |
 | **99.2%** cost reduction achieved | **94%** deployment time reduction |
+
+### Industries
+
+Financial Services, Mining & Energy, Healthcare, Telecommunications, Gaming & Entertainment
 
 ### Tech Stack
 
